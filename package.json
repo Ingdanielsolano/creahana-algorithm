@@ -1,0 +1,16 @@
+{
+  "name": "country-logic",
+  "version": "1.0.0",
+  "description": "Creahan code resolver",
+  "main": "avenger.ts",
+  "scripts": {
+    "start": "node avenger",
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "author": "Oscar Daniel Solano Puentes",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
